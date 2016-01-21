@@ -17,4 +17,4 @@ selected routes in the database. The analysis is still ongoing but preliminary r
 that the visualization techniques we used had different impact on spatial decision making of
 the participants.
 
-This repository contains the code for the interactive prototype used in the study. In a road network shown in the map the user chooses a road by selecting road elements. The prototype was created using the [d3.js library](http://d3js.org/, "d3.js library").
+This repository contains the code for analysis of the collected data.
